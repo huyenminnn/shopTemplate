@@ -2345,7 +2345,9 @@ input.num-product::-webkit-inner-spin-button {
     -webkit-appearance: none;
     margin: 0; 
 }
-
+.bg-cart{
+    background-image: url('../images/heading-pages-01.jpg');
+}
 
 
 
